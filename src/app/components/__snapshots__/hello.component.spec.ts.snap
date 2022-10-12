@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HelloComponent should render component correctly with Joe 1`] = `
+<mock-render
+  __ngContext__="0"
+>
+  <hello>
+    <h1>
+      Hello Joe!
+    </h1>
+  </hello>
+</mock-render>
+`;
+
+exports[`HelloComponent should render component correctly with other name 1`] = `
+<mock-render
+  __ngContext__={[Function Number]}
+>
+  <hello>
+    <h1>
+      Hello Jane!
+    </h1>
+  </hello>
+</mock-render>
+`;
